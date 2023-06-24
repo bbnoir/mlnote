@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "88ac0838b084d5c9",
+        "id": "7bb782b661f6a2ab",
         "type": "tabs",
         "children": [
           {
-            "id": "fb9845ee57a9c1f9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7990af47e40353cd",
+            "id": "4f92f206ef91fe34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 00/Lecture 0.md",
+                "file": "Lecture 01/Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 00/Lecture 0.md",
+                "file": "Lecture 01/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 00/Lecture 0.md",
+                "file": "Lecture 01/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 00/Lecture 0.md"
+                "file": "Lecture 01/Lecture 1.md"
               }
             }
           }
@@ -161,14 +146,18 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "7990af47e40353cd",
+  "active": "d84dbc71f689244a",
   "lastOpenFiles": [
-    "Content.md",
-    "Lecture 00/attachments",
-    "未命名",
-    "Lecture 00/Classification.md",
-    "Lecture 00/Deep Learning.md",
     "Lecture 00/Lecture 0.md",
+    "Content.md",
+    "Lecture 01/Lecture 1.md",
+    "Lecture 00/Deep Learning.md",
+    "Lecture 00/Learning_Map_of_ML.md",
+    "Lecture 00/Classification.md",
+    "Lecture 00/attachments/Pasted image 20230623111604.png",
+    "Lecture 00/attachments/Pasted image 20230624110728.png",
+    "Lecture 00/attachments",
+    "Lecture 01",
     "Lecture 00",
     "Lecture 00/Unsupervised Learning.md",
     "Lecture 00/Transfer Learning.md",
@@ -177,14 +166,12 @@
     "Lecture 00/Semi-supervised Learning.md",
     "Lecture 00/Reinforcement Learning.md",
     "Lecture 00/Regression.md",
-    "Lecture 00/Pasted image 20230624104140.png",
-    "Lecture 00/Pasted image 20230624103655.png",
-    "Lecture 00/Pasted image 20230624103458.png",
-    "Lecture 00/Pasted image 20230623113010.png",
-    "Lecture 00/Pasted image 20230623112809.png",
-    "Lecture 00/Pasted image 20230623112431.png",
-    "Lecture 00/Pasted image 20230623111604.png",
-    "Lecture 00/Learning_Map_of_ML.md",
+    "Lecture 00/attachments/Pasted image 20230624104140.png",
+    "Lecture 00/attachments/Pasted image 20230624103655.png",
+    "Lecture 00/attachments/Pasted image 20230624103458.png",
+    "Lecture 00/attachments/Pasted image 20230623113010.png",
+    "Lecture 00/attachments/Pasted image 20230623112809.png",
+    "Lecture 00/attachments/Pasted image 20230623112431.png",
     "Lecture 00/Framwork_of_ML.md"
   ]
 }

@@ -1,3 +1,21 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1687576287392,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1687576303466,
+          "path": "Lecture 00/Lecture 0.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1687576356063,
+          "path": "Lecture 01/Lecture 1.md"
+        }
+      ],
+      "title": "Lectures"
+    }
+  ]
 }
