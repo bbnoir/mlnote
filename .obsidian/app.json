@@ -2,5 +2,7 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./attachments",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "vimMode": true,
+  "tabSize": 2
 }
