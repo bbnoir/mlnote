@@ -4,15 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "0b2ede6c18a767dd",
+        "id": "f6c1e895ac96f8c0",
         "type": "tabs",
         "children": [
           {
-            "id": "3c91d5f5a00aac59",
+            "id": "6d5c8355bb52978f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 01/Lecture 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bfdfdc8cd347cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 01/Regression Error.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a53a0e9dee5e3909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 00/Model selection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lecture 01/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lecture 01/Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +151,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lecture 01/Lecture 2.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,18 +172,33 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "3c91d5f5a00aac59",
+  "active": "6d5c8355bb52978f",
   "lastOpenFiles": [
+    "Lecture 01/Regression Error.md",
+    "Lecture 01/Lecture 2.md",
     "Lecture 01/Lecture 1.md",
+    "Lecture 02/attachments",
+    "Lecture 02",
+    "Lecture 00/Regression.md",
+    "Content.md",
+    "Lecture 00/Model selection.md",
+    "Lecture 00/Regularization.md",
+    "Lecture 00/attachments/Pasted image 20230625193420.png",
+    "Lecture 00/attachments/Pasted image 20230625193404.png",
+    "Lecture 00/Gradient Descent.md",
+    "Lecture 00/attachments/Pasted image 20230625192624.png",
+    "Lecture 00/attachments/Pasted image 20230625191937.png",
+    "Lecture 00/Framework of ML.md",
+    "Lecture 00/attachments/Pasted image 20230625191218.png",
+    "Lecture 00/attachments/Pasted image 20230625191143.png",
+    "Lecture 00/attachments/Pasted image 20230625191033.png",
+    "Lecture 00/Learning Map of ML.md",
     "Lecture 01/Pasted image 20230624184803.png.md",
     "Lecture 01/attachments/Pasted image 20230624184803.png",
     "Lecture 01/page.md",
-    "Content.md",
     "Lecture 00/Lecture 0.md",
-    "Lecture 00/Learning Map of ML.md",
     "Lecture 01/attachments",
     "attachments",
-    "Lecture 00/Framework of ML.md",
     "Lecture 00/Deep Learning.md",
     "Lecture 00/Classification.md",
     "Lecture 00/attachments/Pasted image 20230623111604.png",
@@ -162,13 +211,6 @@
     "Lecture 00/Supervised Learning.md",
     "Lecture 00/Structured Learning.md",
     "Lecture 00/Semi-supervised Learning.md",
-    "Lecture 00/Reinforcement Learning.md",
-    "Lecture 00/Regression.md",
-    "Lecture 00/attachments/Pasted image 20230624104140.png",
-    "Lecture 00/attachments/Pasted image 20230624103655.png",
-    "Lecture 00/attachments/Pasted image 20230624103458.png",
-    "Lecture 00/attachments/Pasted image 20230623113010.png",
-    "Lecture 00/attachments/Pasted image 20230623112809.png",
-    "Lecture 00/attachments/Pasted image 20230623112431.png"
+    "Lecture 00/Reinforcement Learning.md"
   ]
 }
