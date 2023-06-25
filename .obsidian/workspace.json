@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d5c8355bb52978f",
+            "id": "3bfdfdc8cd347cca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 01/Lecture 2.md",
+                "file": "Lecture 01/Regression Error.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "3bfdfdc8cd347cca",
+            "id": "053d8d1d1494598b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 01/Regression Error.md",
+                "file": "Lecture 01/Regression Estimator.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 01/Lecture 2.md",
+                "file": "Lecture 01/Regression Error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 01/Lecture 2.md",
+                "file": "Lecture 01/Regression Error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 01/Lecture 2.md"
+                "file": "Lecture 01/Regression Error.md"
               }
             }
           }
@@ -172,37 +172,38 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6d5c8355bb52978f",
+  "active": "3bfdfdc8cd347cca",
   "lastOpenFiles": [
+    "Lecture 01/Regression Estimator.md",
     "Lecture 01/Regression Error.md",
+    "Lecture 01/attachments/Pasted image 20230625195826.png",
+    "Lecture 01/attachments/Pasted image 20230625195807.png",
+    "Lecture 01/attachments/Pasted image 20230625195713.png",
+    "Lecture 00/Model selection.md",
+    "Lecture 01/attachments/Pasted image 20230625194953.png",
+    "Lecture 01/attachments/Pasted image 20230625194754.png",
+    "Lecture 01/attachments/Pasted image 20230625194613.png",
+    "Lecture 01/attachments/Pasted image 20230625194556.png",
     "Lecture 01/Lecture 2.md",
     "Lecture 01/Lecture 1.md",
     "Lecture 02/attachments",
     "Lecture 02",
     "Lecture 00/Regression.md",
     "Content.md",
-    "Lecture 00/Model selection.md",
     "Lecture 00/Regularization.md",
     "Lecture 00/attachments/Pasted image 20230625193420.png",
     "Lecture 00/attachments/Pasted image 20230625193404.png",
     "Lecture 00/Gradient Descent.md",
     "Lecture 00/attachments/Pasted image 20230625192624.png",
-    "Lecture 00/attachments/Pasted image 20230625191937.png",
     "Lecture 00/Framework of ML.md",
-    "Lecture 00/attachments/Pasted image 20230625191218.png",
-    "Lecture 00/attachments/Pasted image 20230625191143.png",
-    "Lecture 00/attachments/Pasted image 20230625191033.png",
     "Lecture 00/Learning Map of ML.md",
     "Lecture 01/Pasted image 20230624184803.png.md",
-    "Lecture 01/attachments/Pasted image 20230624184803.png",
     "Lecture 01/page.md",
     "Lecture 00/Lecture 0.md",
     "Lecture 01/attachments",
     "attachments",
     "Lecture 00/Deep Learning.md",
     "Lecture 00/Classification.md",
-    "Lecture 00/attachments/Pasted image 20230623111604.png",
-    "Lecture 00/attachments/Pasted image 20230624110728.png",
     "Lecture 00/attachments",
     "Lecture 01",
     "Lecture 00",
