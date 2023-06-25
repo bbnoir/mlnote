@@ -7,7 +7,4 @@ the function we find is an estimator of the real function ->  [[Regression Estim
 + Underfitting: Error from bias becomes larger as less feature chosen
 	+ feature太少，function set可能沒包含true function，產生bias
 
-![[Pasted image 20230625195807.png]]
-
-
-![[Pasted image 20230625195826.png]]
+###   ==> [[Model selection]]
