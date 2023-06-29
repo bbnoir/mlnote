@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2cea155ea7f46b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 00/Derivation for Gradient Descent.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 00/Gradient Descent.md",
+                "file": "Lecture 00/Derivation for Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 00/Gradient Descent.md",
+                "file": "Lecture 00/Derivation for Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 00/Gradient Descent.md"
+                "file": "Lecture 00/Derivation for Gradient Descent.md"
               }
             }
           }
@@ -148,10 +162,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "2976812084731c59",
+  "active": "a2cea155ea7f46b1",
   "lastOpenFiles": [
-    "Lecture 03/Lecture 3.md",
     "Lecture 00/Gradient Descent.md",
+    "Lecture 00/Derivation for Gradient Descent.md",
+    "Lecture 03/Lecture 3.md",
     "Lecture 01/Lecture 1.md",
     "Lecture 01/Regression.md",
     "Lecture 02/Lecture 2.md",

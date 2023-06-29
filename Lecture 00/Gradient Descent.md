@@ -10,6 +10,7 @@ the method to find the min loss
 + very slow at the plateau
 
 ### Math
+[[Derivation for Gradient Descent]]
 
 
 ![[Pasted image 20230625191937.png]]
