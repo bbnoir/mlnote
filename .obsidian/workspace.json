@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 03/Lecture 3.md",
+                "file": "Lecture 00/Gradient Descent.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 03/Lecture 3.md",
+                "file": "Lecture 00/Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 03/Lecture 3.md",
+                "file": "Lecture 00/Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 03/Lecture 3.md"
+                "file": "Lecture 00/Gradient Descent.md"
               }
             }
           }
@@ -150,6 +150,9 @@
   },
   "active": "cd7820584f416b40",
   "lastOpenFiles": [
+    "Lecture 03/Derivation for Gradient Descent.md",
+    "Lecture 00/Gradient Descent.md",
+    "Lecture 03/Lecture 3.md",
     "Lecture 00/Framework of ML.md",
     "Lecture 03/Tuning your learning rates.md",
     "Lecture 03/Adagrad.md",
@@ -159,15 +162,12 @@
     "Lecture 03/attachments/Pasted image 20230629190516.png",
     "Lecture 03/attachments/Pasted image 20230629190451.png",
     "Lecture 03/attachments/Pasted image 20230629190403.png",
-    "Lecture 00/Gradient Descent.md",
     "Lecture 03/Feature Scaling.md",
     "Lecture 03/attachments/Pasted image 20230629182938.png",
     "Lecture 03/attachments/Pasted image 20230629182930.png",
     "Lecture 03/Stochastic Gradient Descent.md",
     "Lecture 03/attachments/Pasted image 20230629182811.png",
     "Lecture 03/attachments/Pasted image 20230629182755.png",
-    "Lecture 03/Derivation for Gradient Descent.md",
-    "Lecture 03/Lecture 3.md",
     "Lecture 01/Lecture 1.md",
     "Lecture 01/Regression.md",
     "Lecture 02/Lecture 2.md",
