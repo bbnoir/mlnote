@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c11fb968a8a89d7a",
+        "id": "777573b94b74c0f7",
         "type": "tabs",
         "children": [
           {
-            "id": "cd7820584f416b40",
+            "id": "351207de4b1d9fb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 00/Gradient Descent.md",
+                "file": "Lecture 05/Logistic Regression.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 00/Gradient Descent.md",
+                "file": "Lecture 05/Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 00/Gradient Descent.md",
+                "file": "Lecture 05/Logistic Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 00/Gradient Descent.md"
+                "file": "Lecture 05/Logistic Regression.md"
               }
             }
           }
@@ -148,51 +148,53 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "cd7820584f416b40",
+  "active": "351207de4b1d9fb6",
   "lastOpenFiles": [
-    "Lecture 03/Derivation for Gradient Descent.md",
-    "Lecture 00/Gradient Descent.md",
+    "Lecture 05/Posterior Probability - Sigmoid function.md",
+    "Lecture 05/Derivation for Sigmoid Function.md",
+    "Lecture 05/Logistic Regression.md",
+    "Lecture 05/Lecture 5.md",
+    "Lecture 05/attachments/Pasted image 20230702202451.png",
+    "Lecture 05/attachments/Pasted image 20230702202411.png",
+    "Lecture 05/attachments/Pasted image 20230702202331.png",
+    "Lecture 05/attachments/Pasted image 20230702202155.png",
+    "Lecture 04/Lecture 4.md",
     "Lecture 03/Lecture 3.md",
+    "Lecture 04/Classification-Probabilistic Generative Model.md",
+    "Lecture 04/attachments/Pasted image 20230702201714.png",
+    "Lecture 04/attachments/Pasted image 20230702201525.png",
+    "Lecture 04/Maximizing Likelihood.md",
+    "Lecture 04/Gaussian Distribution.md",
+    "Lecture 04/attachments/Pasted image 20230702201344.png",
     "Lecture 00/Framework of ML.md",
+    "Lecture 00/Gradient Descent.md",
+    "Lecture 03/Derivation for Gradient Descent.md",
+    "Lecture 03/Feature Scaling.md",
+    "Lecture 03/Stochastic Gradient Descent.md",
     "Lecture 03/Tuning your learning rates.md",
     "Lecture 03/Adagrad.md",
-    "Lecture 03/attachments/Pasted image 20230629190717.png",
-    "Lecture 03/attachments/Pasted image 20230629190559.png",
-    "Lecture 03/attachments/Pasted image 20230629190536.png",
-    "Lecture 03/attachments/Pasted image 20230629190516.png",
-    "Lecture 03/attachments/Pasted image 20230629190451.png",
-    "Lecture 03/attachments/Pasted image 20230629190403.png",
-    "Lecture 03/Feature Scaling.md",
-    "Lecture 03/attachments/Pasted image 20230629182938.png",
-    "Lecture 03/attachments/Pasted image 20230629182930.png",
-    "Lecture 03/Stochastic Gradient Descent.md",
-    "Lecture 03/attachments/Pasted image 20230629182811.png",
-    "Lecture 03/attachments/Pasted image 20230629182755.png",
+    "Lecture 05/attachments/Pasted image 20230702200013.png",
+    "Lecture 05/attachments/Pasted image 20230702195956.png",
+    "Lecture 05/attachments/Pasted image 20230702195858.png",
+    "Lecture 00/Classification.md",
+    "Lecture 00/Learning Map of ML.md",
+    "Lecture 00/Lecture 0.md",
+    "Lecture 00/Deep Learning.md",
+    "Lecture 05/attachments",
+    "Lecture 05",
+    "Lecture 04/attachments",
+    "Lecture 04",
     "Lecture 01/Lecture 1.md",
     "Lecture 01/Regression.md",
     "Lecture 02/Lecture 2.md",
-    "Lecture 00/Lecture 0.md",
-    "Lecture 00/Classification.md",
     "Lecture 03/attachments",
     "Lecture 03",
     "Content.md",
     "Lecture 02/Regression Error.md",
     "Lecture 02/Model selection.md",
-    "Lecture 00/Learning Map of ML.md",
-    "Lecture 00/Cross Validation.md",
-    "Lecture 02/Regression Estimator.md",
-    "Lecture 01/Regularization.md",
-    "Lecture 00/Deep Learning.md",
-    "Lecture 00/Structured Learning.md",
     "Lecture 02/attachments",
     "Lecture 02",
-    "Lecture 01/Pasted image 20230624184803.png.md",
-    "Lecture 01/page.md",
     "Lecture 01/attachments",
-    "attachments",
-    "Lecture 00/attachments",
-    "Lecture 01",
-    "Lecture 00",
-    "Lecture 00/Unsupervised Learning.md"
+    "attachments"
   ]
 }

@@ -1,4 +1,4 @@
-the method to find the min loss
+the method to find the min loss for regression
 
 ### Method
 1. Pick an initial value w0

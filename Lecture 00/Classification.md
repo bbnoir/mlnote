@@ -1,3 +1,7 @@
+[[Lecture 4]] -> [[Classification-Probabilistic Generative Model]]
+[[Lecture 5]] -> [[Logistic Regression]]
+
+
 ![[Pasted image 20230623112809.png]]
 ![[Pasted image 20230623113010.png]]
 + [[Deep Learning]]: type of non-linear model with complex function
