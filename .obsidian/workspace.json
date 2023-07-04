@@ -11,8 +11,13 @@
             "id": "351207de4b1d9fb6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 05/Posterior Probability - Sigmoid function.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -61,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lecture 05/Posterior Probability - Sigmoid function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lecture 05/Posterior Probability - Sigmoid function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lecture 05/Posterior Probability - Sigmoid function.md"
+              }
             }
           }
         ]
@@ -138,18 +148,18 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "d84dbc71f689244a",
+  "active": "351207de4b1d9fb6",
   "lastOpenFiles": [
+    "Lecture 05/Logistic Regression.md",
+    "Lecture 05/Lecture 5.md",
     "Lecture 00/Learning Map of ML.md",
     "Lecture 04/Maximizing Likelihood.md",
     "Lecture 04/Lecture 4.md",
     "Lecture 04/Classification-Probabilistic Generative Model.md",
-    "Lecture 05/Lecture 5.md",
     "Lecture 03/Lecture 3.md",
     "Lecture 02/Lecture 2.md",
     "Lecture 01/Lecture 1.md",
     "Lecture 00/Lecture 0.md",
-    "Lecture 05/Logistic Regression.md",
     "Lecture 05/Posterior Probability - Sigmoid function.md",
     "Lecture 05/Derivation for Sigmoid Function.md",
     "Lecture 05/attachments/Pasted image 20230702202451.png",
