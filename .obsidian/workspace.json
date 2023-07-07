@@ -21,7 +21,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 05/Logistic Regression.md",
+                "file": "Side Skills/Python.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb5eaf7df19b4982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Side Skills/OpenCV.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 05/Logistic Regression.md",
+                "file": "Side Skills/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 05/Logistic Regression.md",
+                "file": "Side Skills/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 05/Logistic Regression.md"
+                "file": "Side Skills/Python.md"
               }
             }
           }
@@ -159,10 +172,12 @@
   },
   "active": "c25eb68519a2183a",
   "lastOpenFiles": [
-    "Lecture 05/Posterior Probability - Sigmoid function.md",
-    "Lecture 05/Logistic Regression.md",
-    "Lecture 05/Lecture 5.md",
+    "Side Skills/OpenCV.md",
+    "Side Skills/Python.md",
     "Side Skills/Side Skills.md",
+    "Lecture 05/Logistic Regression.md",
+    "Lecture 05/Posterior Probability - Sigmoid function.md",
+    "Lecture 05/Lecture 5.md",
     "Lecture 04/Lecture 4.md",
     "Lecture 03/Lecture 3.md",
     "Lecture 02/Lecture 2.md",
@@ -174,7 +189,6 @@
     "Lecture 00/Learning Map of ML.md",
     "Lecture 00/Lecture 0.md",
     "Lecture 00/Framework of ML.md",
-    "Side Skills/Python.md",
     "Side Skills/attachments",
     "Side Skills",
     "Lecture 04/Maximizing Likelihood.md",
@@ -196,7 +210,6 @@
     "Lecture 05/attachments/Pasted image 20230702200013.png",
     "Lecture 05/attachments/Pasted image 20230702195956.png",
     "Lecture 05/attachments/Pasted image 20230702195858.png",
-    "Lecture 00/Classification.md",
     "Lecture 05/attachments",
     "Lecture 05",
     "Lecture 04/attachments",
