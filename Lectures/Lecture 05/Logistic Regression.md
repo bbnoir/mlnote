@@ -16,3 +16,5 @@ based on: [[Posterior Probability - Sigmoid function]]
 
 Better than Lec4 [[Classification-Probabilistic Generative Model]]
 -> [[Classification--Generative vs Discriminative]]
+
+### [[Limitation of Logistic Regression]]

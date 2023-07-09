@@ -7,33 +7,43 @@
         {
           "type": "file",
           "ctime": 1687576303466,
-          "path": "Lecture 00/Lecture 0.md"
+          "path": "Lectures/Lecture 00/Lecture 0.md"
         },
         {
           "type": "file",
           "ctime": 1687576356063,
-          "path": "Lecture 01/Lecture 1.md"
+          "path": "Lectures/Lecture 01/Lecture 1.md"
         },
         {
           "type": "file",
           "ctime": 1687695050827,
-          "path": "Lecture 02/Lecture 2.md",
+          "path": "Lectures/Lecture 02/Lecture 2.md",
           "title": "Lecture 2"
         },
         {
           "type": "file",
           "ctime": 1687695943114,
-          "path": "Lecture 03/Lecture 3.md"
+          "path": "Lectures/Lecture 03/Lecture 3.md"
         },
         {
           "type": "file",
           "ctime": 1688298242568,
-          "path": "Lecture 04/Lecture 4.md"
+          "path": "Lectures/Lecture 04/Lecture 4.md"
         },
         {
           "type": "file",
           "ctime": 1688298248103,
-          "path": "Lecture 05/Lecture 5.md"
+          "path": "Lectures/Lecture 05/Lecture 5.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1688905854883,
+          "path": "Lectures/Lecture 06/Lecture 6.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1688905860725,
+          "path": "Lectures/Lecture 07/Lecture 7.md"
         }
       ],
       "title": "Lectures"

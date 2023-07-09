@@ -1,5 +1,5 @@
 [[Lecture 4]] -> [[Classification-Probabilistic Generative Model]]
-[[Lecture 5]] -> [[Logistic Regression]]
+[[Lecture 5]] -> [[Logistic Regression]], [[Multi-class Classification]]
 
 
 ![[Pasted image 20230623112809.png]]

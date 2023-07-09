@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6417ff9152870ee9",
+            "id": "f02ad8f3b5b382a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 05/Lecture 5.md",
+                "file": "Lectures/Lecture 07/Backpropagation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "classifi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 05/Lecture 5.md",
+                "file": "Lectures/Lecture 07/Backpropagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 05/Lecture 5.md",
+                "file": "Lectures/Lecture 07/Backpropagation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 05/Lecture 5.md"
+                "file": "Lectures/Lecture 07/Backpropagation.md"
               }
             }
           }
@@ -135,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,52 +146,53 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "6417ff9152870ee9",
+  "active": "f02ad8f3b5b382a4",
   "lastOpenFiles": [
-    "Lecture 05/Classification--Generative vs Discriminative.md",
-    "Lecture 05/attachments/Pasted image 20230709191804.png",
-    "Lecture 04/Lecture 4.md",
-    "Lecture 05/attachments/Pasted image 20230709191544.png",
-    "Lecture 05/Lecture 5.md",
-    "Lecture 05/Logistic Regression.md",
-    "Lecture 05/Why not square error.md",
-    "Lecture 05/attachments/Pasted image 20230709191220.png",
-    "Lecture 05/attachments/Pasted image 20230709191214.png",
-    "Lecture 05/attachments/Pasted image 20230709191205.png",
-    "Lecture 05/Derivation of logistic regression differentiation.md",
-    "Lecture 05/attachments/Pasted image 20230709191104.png",
-    "Lecture 05/attachments/Pasted image 20230709191055.png",
-    "Lecture 00/Gradient Descent.md",
-    "Lecture 01/Regression.md",
-    "Lecture 05/attachments/Pasted image 20230709190955.png",
-    "Lecture 05/attachments/Pasted image 20230709190842.png",
-    "Lecture 05/attachments/Pasted image 20230709190547.png",
-    "Lecture 00/Learning Map of ML.md",
-    "Lecture 05/Posterior Probability - Sigmoid function.md",
-    "Lecture 04/Classification-Probabilistic Generative Model.md",
-    "Lecture 03/Lecture 3.md",
-    "Lecture 03/Feature Scaling.md",
-    "Lecture 03/Stochastic Gradient Descent.md",
-    "Lecture 03/Tuning your learning rates.md",
-    "Lecture 02/Lecture 2.md",
-    "Lecture 01/Lecture 1.md",
-    "Lecture 01/Regularization.md",
-    "Lecture 02/Model selection.md",
-    "Lecture 00/Cross Validation.md",
-    "Lecture 03/Derivation for Gradient Descent.md",
-    "Side Skills/Python.md",
-    "Side Skills/OpenCV.md",
-    "Side Skills/Side Skills.md",
-    "Lecture 00/Lecture 0.md",
+    "Lectures/Lecture 07/attachments/Pasted image 20230709204942.png",
+    "Lectures/Lecture 07/attachments/Pasted image 20230709204918.png",
+    "Lectures/Lecture 07/attachments/Pasted image 20230709204902.png",
+    "Lectures/Lecture 07/attachments/Pasted image 20230709204835.png",
+    "Lectures/Lecture 07/attachments/Pasted image 20230709204555.png",
+    "Lectures/Lecture 06/Deep Learning.md",
+    "Lectures/Lecture 07/Backpropagation.md",
+    "Lectures/Lecture 07/attachments/Pasted image 20230709204449.png",
+    "Lectures/Lecture 07/Lecture 7.md",
+    "Lectures/Lecture 00/Lecture 0.md",
+    "Lectures",
+    "Lectures/Lecture 06/Lecture 6.md",
+    "Lectures/Lecture 02/Model selection.md",
+    "Lectures/Lecture 02/Cross Validation.md",
+    "Lectures/Lecture 07/attachments",
+    "Lectures/Lecture 07",
+    "Lectures/Lecture 03/Gradient Descent.md",
+    "Lectures/Lecture 00/Learning Map of ML.md",
+    "Lectures/Lecture 00/Classification.md",
+    "Lectures/Lecture 06/Neural Network.md",
+    "Lectures/Lecture 00/attachments/Pasted image 20230709202317.png",
+    "Lectures/Lecture 00/attachments/Pasted image 20230709202305.png",
+    "Lectures/Lecture 00/attachments/Pasted image 20230709202150.png",
+    "Lectures/Lecture 00/attachments/Pasted image 20230709202105.png",
+    "Lectures/Lecture 00/attachments/Pasted image 20230709201447.png",
+    "Lectures/Lecture 00/Framework of ML.md",
+    "Lectures/Lecture 05/Lecture 5.md",
+    "Lectures/Lecture 06/attachments",
+    "Lectures/Lecture 06",
+    "Lectures/Lecture 05/Limitation of Logistic Regression.md",
+    "Lectures/Lecture 05/Logistic Regression.md",
+    "Lectures/Lecture 05/Multi-class Classification.md",
+    "Lectures/Lecture 02/Lecture 2.md",
+    "Lectures/Lecture 03/Lecture 3.md",
+    "Lectures/Lecture 04/Lecture 4.md",
+    "Lectures/Lecture 04/Classification-Probabilistic Generative Model.md",
+    "Lectures/Lecture 05/Classification--Generative vs Discriminative.md",
+    "Lectures/Lecture 05/Why not square error.md",
+    "Lectures/Lecture 05/Derivation of logistic regression differentiation.md",
+    "Lectures/Lecture 01/Regression.md",
+    "Lectures/Lecture 05/Posterior Probability - Sigmoid function.md",
     "Side Skills/attachments",
     "Side Skills",
-    "Lecture 05/attachments",
-    "Lecture 05",
-    "Lecture 04/attachments",
-    "Lecture 04",
-    "Lecture 03/attachments",
-    "Lecture 03",
-    "Lecture 02/attachments",
-    "Lecture 02"
+    "Lectures/Lecture 05/attachments",
+    "Lectures/Lecture 05",
+    "Lectures/Lecture 04/attachments"
   ]
 }

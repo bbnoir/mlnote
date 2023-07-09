@@ -2,6 +2,7 @@
 ### Task
 + [[Regression]]: output -> scalar
 + [[Classification]]: output -> class
+	+ [[Deep Learning]]
 + [[Structured Learning]]: output -> complex
 ### Scenario
 + [[Supervised Learning]] -> need lots of effort
