@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f02ad8f3b5b382a4",
+            "id": "458650ecae76b825",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture 07/Backpropagation.md",
+                "file": "Lectures/Lecture 08/Toolkit-Keras.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture 07/Backpropagation.md",
+                "file": "Lectures/Lecture 08/Toolkit-Keras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture 07/Backpropagation.md",
+                "file": "Lectures/Lecture 08/Toolkit-Keras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture 07/Backpropagation.md"
+                "file": "Lectures/Lecture 08/Toolkit-Keras.md"
               }
             }
           }
@@ -146,18 +146,28 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "f02ad8f3b5b382a4",
+  "active": "458650ecae76b825",
   "lastOpenFiles": [
-    "Lectures/Lecture 07/attachments/Pasted image 20230709204942.png",
-    "Lectures/Lecture 07/attachments/Pasted image 20230709204918.png",
-    "Lectures/Lecture 07/attachments/Pasted image 20230709204902.png",
-    "Lectures/Lecture 07/attachments/Pasted image 20230709204835.png",
-    "Lectures/Lecture 07/attachments/Pasted image 20230709204555.png",
-    "Lectures/Lecture 06/Deep Learning.md",
-    "Lectures/Lecture 07/Backpropagation.md",
-    "Lectures/Lecture 07/attachments/Pasted image 20230709204449.png",
-    "Lectures/Lecture 07/Lecture 7.md",
+    "Lectures/Lecture 08/attachments/Pasted image 20230709213349.png",
+    "Lectures/Lecture 08/attachments/Pasted image 20230709213337.png",
+    "Lectures/Lecture 08/attachments/Pasted image 20230709213304.png",
+    "Lectures/Lecture 08/attachments/Pasted image 20230709213245.png",
+    "Lectures/Lecture 08/attachments/Pasted image 20230709213200.png",
+    "Lectures/Lecture 08/attachments/Pasted image 20230709210514.png",
+    "Lectures/Lecture 08/attachments/Pasted image 20230709210443.png",
+    "Lectures/Lecture 08/Lecture 8.md",
+    "Lectures/Lecture 08/Toolkit-Keras.md",
     "Lectures/Lecture 00/Lecture 0.md",
+    "Lectures/Lecture 07/Lecture 7.md",
+    "Lectures/Lecture 07/Backpropagation.md",
+    "Lectures/Lecture 08/attachments",
+    "未命名",
+    "Lectures/Lecture 08",
+    "Lectures/Lecture 07/attachments/Pasted image 20230709205230.png",
+    "Lectures/Lecture 07/attachments/Pasted image 20230709205214.png",
+    "Lectures/Lecture 07/attachments/Pasted image 20230709205130.png",
+    "Lectures/Lecture 07/attachments/Pasted image 20230709205115.png",
+    "Lectures/Lecture 06/Deep Learning.md",
     "Lectures",
     "Lectures/Lecture 06/Lecture 6.md",
     "Lectures/Lecture 02/Model selection.md",
@@ -168,11 +178,6 @@
     "Lectures/Lecture 00/Learning Map of ML.md",
     "Lectures/Lecture 00/Classification.md",
     "Lectures/Lecture 06/Neural Network.md",
-    "Lectures/Lecture 00/attachments/Pasted image 20230709202317.png",
-    "Lectures/Lecture 00/attachments/Pasted image 20230709202305.png",
-    "Lectures/Lecture 00/attachments/Pasted image 20230709202150.png",
-    "Lectures/Lecture 00/attachments/Pasted image 20230709202105.png",
-    "Lectures/Lecture 00/attachments/Pasted image 20230709201447.png",
     "Lectures/Lecture 00/Framework of ML.md",
     "Lectures/Lecture 05/Lecture 5.md",
     "Lectures/Lecture 06/attachments",
@@ -187,12 +192,7 @@
     "Lectures/Lecture 05/Classification--Generative vs Discriminative.md",
     "Lectures/Lecture 05/Why not square error.md",
     "Lectures/Lecture 05/Derivation of logistic regression differentiation.md",
-    "Lectures/Lecture 01/Regression.md",
-    "Lectures/Lecture 05/Posterior Probability - Sigmoid function.md",
     "Side Skills/attachments",
-    "Side Skills",
-    "Lectures/Lecture 05/attachments",
-    "Lectures/Lecture 05",
-    "Lectures/Lecture 04/attachments"
+    "Side Skills"
   ]
 }
