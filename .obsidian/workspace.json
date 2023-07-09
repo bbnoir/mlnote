@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "777573b94b74c0f7",
+        "id": "61920a06e0969fd0",
         "type": "tabs",
         "children": [
           {
-            "id": "351207de4b1d9fb6",
+            "id": "6417ff9152870ee9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 04/Lecture 4.md",
+                "file": "Lecture 05/Lecture 5.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 04/Lecture 4.md",
+                "file": "Lecture 05/Lecture 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 04/Lecture 4.md",
+                "file": "Lecture 05/Lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 04/Lecture 4.md"
+                "file": "Lecture 05/Lecture 5.md"
               }
             }
           }
@@ -148,46 +148,45 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "351207de4b1d9fb6",
+  "active": "6417ff9152870ee9",
   "lastOpenFiles": [
-    "Lecture 04/Classification-Probabilistic Generative Model.md",
+    "Lecture 05/Classification--Generative vs Discriminative.md",
+    "Lecture 05/attachments/Pasted image 20230709191804.png",
     "Lecture 04/Lecture 4.md",
-    "Lecture 03/Lecture 3.md",
+    "Lecture 05/attachments/Pasted image 20230709191544.png",
+    "Lecture 05/Lecture 5.md",
+    "Lecture 05/Logistic Regression.md",
+    "Lecture 05/Why not square error.md",
+    "Lecture 05/attachments/Pasted image 20230709191220.png",
+    "Lecture 05/attachments/Pasted image 20230709191214.png",
+    "Lecture 05/attachments/Pasted image 20230709191205.png",
+    "Lecture 05/Derivation of logistic regression differentiation.md",
+    "Lecture 05/attachments/Pasted image 20230709191104.png",
+    "Lecture 05/attachments/Pasted image 20230709191055.png",
     "Lecture 00/Gradient Descent.md",
+    "Lecture 01/Regression.md",
+    "Lecture 05/attachments/Pasted image 20230709190955.png",
+    "Lecture 05/attachments/Pasted image 20230709190842.png",
+    "Lecture 05/attachments/Pasted image 20230709190547.png",
+    "Lecture 00/Learning Map of ML.md",
+    "Lecture 05/Posterior Probability - Sigmoid function.md",
+    "Lecture 04/Classification-Probabilistic Generative Model.md",
+    "Lecture 03/Lecture 3.md",
     "Lecture 03/Feature Scaling.md",
     "Lecture 03/Stochastic Gradient Descent.md",
     "Lecture 03/Tuning your learning rates.md",
     "Lecture 02/Lecture 2.md",
     "Lecture 01/Lecture 1.md",
-    "Lecture 01/Regression.md",
     "Lecture 01/Regularization.md",
     "Lecture 02/Model selection.md",
     "Lecture 00/Cross Validation.md",
     "Lecture 03/Derivation for Gradient Descent.md",
-    "Lecture 05/Logistic Regression.md",
-    "Lecture 05/Posterior Probability - Sigmoid function.md",
-    "Lecture 05/Lecture 5.md",
     "Side Skills/Python.md",
     "Side Skills/OpenCV.md",
     "Side Skills/Side Skills.md",
-    "Lecture 00/Learning Map of ML.md",
     "Lecture 00/Lecture 0.md",
-    "Lecture 00/Framework of ML.md",
     "Side Skills/attachments",
     "Side Skills",
-    "Lecture 04/Maximizing Likelihood.md",
-    "Lecture 05/Derivation for Sigmoid Function.md",
-    "Lecture 05/attachments/Pasted image 20230702202451.png",
-    "Lecture 05/attachments/Pasted image 20230702202411.png",
-    "Lecture 05/attachments/Pasted image 20230702202331.png",
-    "Lecture 05/attachments/Pasted image 20230702202155.png",
-    "Lecture 04/attachments/Pasted image 20230702201714.png",
-    "Lecture 04/attachments/Pasted image 20230702201525.png",
-    "Lecture 04/Gaussian Distribution.md",
-    "Lecture 04/attachments/Pasted image 20230702201344.png",
-    "Lecture 05/attachments/Pasted image 20230702200013.png",
-    "Lecture 05/attachments/Pasted image 20230702195956.png",
-    "Lecture 05/attachments/Pasted image 20230702195858.png",
     "Lecture 05/attachments",
     "Lecture 05",
     "Lecture 04/attachments",
