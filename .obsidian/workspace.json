@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "458650ecae76b825",
+            "id": "c6ac6bcad8ff937f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture 08/Toolkit-Keras.md",
+                "file": "Lectures/Lecture 09/Tips for Deep Learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture 08/Toolkit-Keras.md",
+                "file": "Lectures/Lecture 09/Tips for Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture 08/Toolkit-Keras.md",
+                "file": "Lectures/Lecture 09/Tips for Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture 08/Toolkit-Keras.md"
+                "file": "Lectures/Lecture 09/Tips for Deep Learning.md"
               }
             }
           }
@@ -146,8 +146,17 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "458650ecae76b825",
+  "active": "c6ac6bcad8ff937f",
   "lastOpenFiles": [
+    "Lectures/Lecture 09/Lecture 9.md",
+    "Lectures/Lecture 09/Tips for Deep Learning.md",
+    "Lectures/Lecture 06/Lecture 6.md",
+    "Lectures/Lecture 06/Deep Learning.md",
+    "Lectures/Lecture 07/Lecture 7.md",
+    "Lectures/Lecture 08/Lecture 8.md",
+    "Lectures/Lecture 08/Toolkit-Keras.md",
+    "Lectures/Lecture 09/attachments",
+    "Lectures/Lecture 09",
     "Lectures/Lecture 08/attachments/Pasted image 20230709213349.png",
     "Lectures/Lecture 08/attachments/Pasted image 20230709213337.png",
     "Lectures/Lecture 08/attachments/Pasted image 20230709213304.png",
@@ -155,10 +164,7 @@
     "Lectures/Lecture 08/attachments/Pasted image 20230709213200.png",
     "Lectures/Lecture 08/attachments/Pasted image 20230709210514.png",
     "Lectures/Lecture 08/attachments/Pasted image 20230709210443.png",
-    "Lectures/Lecture 08/Lecture 8.md",
-    "Lectures/Lecture 08/Toolkit-Keras.md",
     "Lectures/Lecture 00/Lecture 0.md",
-    "Lectures/Lecture 07/Lecture 7.md",
     "Lectures/Lecture 07/Backpropagation.md",
     "Lectures/Lecture 08/attachments",
     "未命名",
@@ -166,10 +172,7 @@
     "Lectures/Lecture 07/attachments/Pasted image 20230709205230.png",
     "Lectures/Lecture 07/attachments/Pasted image 20230709205214.png",
     "Lectures/Lecture 07/attachments/Pasted image 20230709205130.png",
-    "Lectures/Lecture 07/attachments/Pasted image 20230709205115.png",
-    "Lectures/Lecture 06/Deep Learning.md",
     "Lectures",
-    "Lectures/Lecture 06/Lecture 6.md",
     "Lectures/Lecture 02/Model selection.md",
     "Lectures/Lecture 02/Cross Validation.md",
     "Lectures/Lecture 07/attachments",
@@ -190,9 +193,6 @@
     "Lectures/Lecture 04/Lecture 4.md",
     "Lectures/Lecture 04/Classification-Probabilistic Generative Model.md",
     "Lectures/Lecture 05/Classification--Generative vs Discriminative.md",
-    "Lectures/Lecture 05/Why not square error.md",
-    "Lectures/Lecture 05/Derivation of logistic regression differentiation.md",
-    "Side Skills/attachments",
-    "Side Skills"
+    "Lectures/Lecture 05/Why not square error.md"
   ]
 }
