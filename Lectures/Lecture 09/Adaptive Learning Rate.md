@@ -1,0 +1,5 @@
+### [[Adagrad]]
+
+### [[RMSProp]]
+### [[Momentum]]
+### -> [[Adam]]
