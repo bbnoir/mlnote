@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture 10/Lecture 10.md",
+                "file": "Lectures/Lecture 09/Lecture 9.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture 10/Lecture 10.md",
+                "file": "Lectures/Lecture 09/Lecture 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture 10/Lecture 10.md",
+                "file": "Lectures/Lecture 09/Lecture 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture 10/Lecture 10.md"
+                "file": "Lectures/Lecture 09/Lecture 9.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "e642234e6b8c22dc",
   "lastOpenFiles": [
-    "Lectures/Lecture 09/Lecture 9.md",
     "Lectures/Lecture 10/Lecture 10.md",
+    "Lectures/Lecture 09/Lecture 9.md",
     "Side Skills/PyTorch.md",
     "Side Skills/Side Skills.md",
     "Side Skills/Python.md",
