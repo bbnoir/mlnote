@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture 09/Lecture 9.md",
+                "file": "Lectures/Lecture 02/Regression Error.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "classifi",
+                "query": "overfit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture 09/Lecture 9.md",
+                "file": "Lectures/Lecture 02/Regression Error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture 09/Lecture 9.md",
+                "file": "Lectures/Lecture 02/Regression Error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture 09/Lecture 9.md"
+                "file": "Lectures/Lecture 02/Regression Error.md"
               }
             }
           }
@@ -150,12 +150,24 @@
   },
   "active": "e642234e6b8c22dc",
   "lastOpenFiles": [
+    "Lectures/Lecture 02/attachments/Pasted image 20230710154227.png",
+    "Lectures/Lecture 02/Lecture 2.md",
+    "Lectures/Lecture 04/Lecture 4.md",
+    "Lectures/Lecture 03/Lecture 3.md",
+    "Lectures/Lecture 02/Regression Error.md",
+    "Lectures/Lecture 02/Model selection.md",
     "Lectures/Lecture 10/Lecture 10.md",
+    "Lectures/Lecture 09/Tips for Deep Learning.md",
     "Lectures/Lecture 09/Lecture 9.md",
+    "Lectures/Lecture 05/Multi-class Classification.md",
+    "Lectures/Lecture 05/Lecture 5.md",
+    "Lectures/Lecture 07/Lecture 7.md",
+    "Lectures/Lecture 06/Lecture 6.md",
+    "Lectures/Lecture 08/Lecture 8.md",
+    "Lectures/Lecture 00/Framework of ML.md",
     "Side Skills/PyTorch.md",
     "Side Skills/Side Skills.md",
     "Side Skills/Python.md",
-    "Lectures/Lecture 09/Tips for Deep Learning.md",
     "Lectures/Lecture 10/attachments",
     "Lectures/Lecture 10",
     "未命名",
@@ -163,10 +175,7 @@
     "Lectures/Lecture 09/Activation Function.md",
     "Lectures/Lecture 01/Regularization.md",
     "Lectures/Lecture 09/attachments/Pasted image 20230709225104.png",
-    "Lectures/Lecture 06/Lecture 6.md",
     "Lectures/Lecture 06/Deep Learning.md",
-    "Lectures/Lecture 07/Lecture 7.md",
-    "Lectures/Lecture 08/Lecture 8.md",
     "Lectures/Lecture 08/Toolkit-Keras.md",
     "Lectures/Lecture 09/attachments",
     "Lectures/Lecture 09",
@@ -184,17 +193,8 @@
     "Lectures/Lecture 07/attachments/Pasted image 20230709205230.png",
     "Lectures/Lecture 07/attachments/Pasted image 20230709205214.png",
     "Lectures",
-    "Lectures/Lecture 02/Model selection.md",
     "Lectures/Lecture 02/Cross Validation.md",
     "Lectures/Lecture 07/attachments",
-    "Lectures/Lecture 07",
-    "Lectures/Lecture 03/Gradient Descent.md",
-    "Lectures/Lecture 00/Learning Map of ML.md",
-    "Lectures/Lecture 00/Classification.md",
-    "Lectures/Lecture 06/Neural Network.md",
-    "Lectures/Lecture 00/Framework of ML.md",
-    "Lectures/Lecture 05/Lecture 5.md",
-    "Lectures/Lecture 05/Limitation of Logistic Regression.md",
-    "Lectures/Lecture 05/Logistic Regression.md"
+    "Lectures/Lecture 07"
   ]
 }

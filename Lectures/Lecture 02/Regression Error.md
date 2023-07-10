@@ -8,3 +8,5 @@ the function we find is an estimator of the real function ->  [[Regression Estim
 	+ feature太少，function set可能沒包含true function，產生bias
 
 ###   ==> [[Model selection]]
+
+![[Pasted image 20230710154227.png]]
