@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ee4952f94420b459",
+        "id": "c4a6bd329b983f1a",
         "type": "tabs",
         "children": [
           {
-            "id": "27b0e9bfee5281d9",
+            "id": "8083f9cecde92895",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Lecture 08/Toolkit-Keras.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gradient descent",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lectures/Lecture 08/Toolkit-Keras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lectures/Lecture 08/Toolkit-Keras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lectures/Lecture 08/Toolkit-Keras.md"
+              }
             }
           }
         ]
@@ -137,11 +147,23 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "d84dbc71f689244a",
+  "active": "8083f9cecde92895",
   "lastOpenFiles": [
-    "Lectures/Lecture 03/Stochastic Gradient Descent.md",
-    "Lectures/Lecture 03/Gradient Descent.md",
+    "Lectures/Lecture 08/Lecture 8.md",
+    "Lectures/Lecture 07/Lecture 7.md",
     "Lectures/Lecture 06/Deep Learning.md",
+    "Lectures/Lecture 06/Neural Network.md",
+    "Lectures/Lecture 06/Lecture 6.md",
+    "Lectures/Lecture 05/Lecture 5.md",
+    "Lectures/Lecture 05/Logistic Regression.md",
+    "Lectures/Lecture 04/Lecture 4.md",
+    "Lectures/Lecture 03/Lecture 3.md",
+    "Lectures/Lecture 02/Lecture 2.md",
+    "Lectures/Lecture 03/Gradient Descent.md",
+    "Lectures/Lecture 03/Derivation for Gradient Descent.md",
+    "Lectures/Lecture 03/Feature Scaling.md",
+    "Lectures/Lecture 03/Stochastic Gradient Descent.md",
+    "Lectures/Lecture 00/Lecture 0.md",
     "Lectures/Lecture 09/Lecture 9.md",
     "Lectures/Lecture 10/Lecture 10.md",
     "Lectures/Lecture 09/Tips for Deep Learning.md",
@@ -163,18 +185,6 @@
     "Lectures/Lecture 09/Momentum.md",
     "Lectures/Lecture 09/RMSProp.md",
     "Lectures/Lecture 03/Adagrad.md",
-    "Lectures/Lecture 09/Activation Function.md",
-    "Lectures/Lecture 09/Maxout.md",
-    "Lectures/Lecture 09/ReLU.md",
-    "Lectures/Lecture 08/Lecture 8.md",
-    "Lectures/Lecture 09/Vanishing Gradient Problem.md",
-    "Lectures/Lecture 10/Convolutional Neural Network.md",
-    "Lectures/Lecture 07/Lecture 7.md",
-    "Lectures/Lecture 02/Regression Error.md",
-    "Lectures/Lecture 02/Lecture 2.md",
-    "Lectures/Lecture 04/Lecture 4.md",
-    "Lectures/Lecture 03/Lecture 3.md",
-    "Lectures/Lecture 02/Model selection.md",
     "Lectures/Lecture 10/attachments",
     "Lectures/Lecture 10",
     "未命名",
