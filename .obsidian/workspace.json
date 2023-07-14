@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture 08/Toolkit-Keras.md",
+                "file": "Side Skills/PyTorch.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture 08/Toolkit-Keras.md",
+                "file": "Side Skills/PyTorch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture 08/Toolkit-Keras.md",
+                "file": "Side Skills/PyTorch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture 08/Toolkit-Keras.md"
+                "file": "Side Skills/PyTorch.md"
               }
             }
           }
@@ -139,16 +139,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "8083f9cecde92895",
   "lastOpenFiles": [
+    "Side Skills/Side Skills.md",
+    "Lectures/Lecture 00/Lecture 0.md",
+    "Lectures/Lecture 08/Toolkit-Keras.md",
     "Lectures/Lecture 08/Lecture 8.md",
     "Lectures/Lecture 07/Lecture 7.md",
     "Lectures/Lecture 06/Deep Learning.md",
@@ -163,7 +166,6 @@
     "Lectures/Lecture 03/Derivation for Gradient Descent.md",
     "Lectures/Lecture 03/Feature Scaling.md",
     "Lectures/Lecture 03/Stochastic Gradient Descent.md",
-    "Lectures/Lecture 00/Lecture 0.md",
     "Lectures/Lecture 09/Lecture 9.md",
     "Lectures/Lecture 10/Lecture 10.md",
     "Lectures/Lecture 09/Tips for Deep Learning.md",
@@ -183,8 +185,6 @@
     "Lectures/Lecture 09/Adaptive Learning Rate.md",
     "Lectures/Lecture 09/Adam.md",
     "Lectures/Lecture 09/Momentum.md",
-    "Lectures/Lecture 09/RMSProp.md",
-    "Lectures/Lecture 03/Adagrad.md",
     "Lectures/Lecture 10/attachments",
     "Lectures/Lecture 10",
     "未命名",
