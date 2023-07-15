@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Side Skills/Python.md",
+                "file": "Lectures/Lecture 10/Convolutional Neural Network.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Side Skills/Python.md",
+                "file": "Lectures/Lecture 10/Convolutional Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Side Skills/Python.md",
+                "file": "Lectures/Lecture 10/Convolutional Neural Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Side Skills/Python.md"
+                "file": "Lectures/Lecture 10/Convolutional Neural Network.md"
               }
             }
           }
@@ -149,7 +149,10 @@
   },
   "active": "8083f9cecde92895",
   "lastOpenFiles": [
+    "Lectures/Lecture 10/Lecture 10.md",
+    "Lectures/Lecture 09/Lecture 9.md",
     "Side Skills/Side Skills.md",
+    "Side Skills/Python.md",
     "Side Skills/PyTorch.md",
     "Lectures/Lecture 00/Lecture 0.md",
     "Lectures/Lecture 08/Toolkit-Keras.md",
@@ -167,8 +170,6 @@
     "Lectures/Lecture 03/Derivation for Gradient Descent.md",
     "Lectures/Lecture 03/Feature Scaling.md",
     "Lectures/Lecture 03/Stochastic Gradient Descent.md",
-    "Lectures/Lecture 09/Lecture 9.md",
-    "Lectures/Lecture 10/Lecture 10.md",
     "Lectures/Lecture 09/Tips for Deep Learning.md",
     "Lectures/Lecture 09/Dropout.md",
     "Lectures/Lecture 09/attachments/Pasted image 20230712182651.png",
@@ -184,7 +185,6 @@
     "Lectures/Lecture 01/attachments/Pasted image 20230712182227.png",
     "Lectures/Lecture 09/Early Stopping.md",
     "Lectures/Lecture 09/Adaptive Learning Rate.md",
-    "Lectures/Lecture 09/Adam.md",
     "Lectures/Lecture 10/attachments",
     "Lectures/Lecture 10",
     "未命名",
