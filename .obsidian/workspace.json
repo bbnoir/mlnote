@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Side Skills/PyTorch.md",
+                "file": "Side Skills/Python.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Side Skills/PyTorch.md",
+                "file": "Side Skills/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Side Skills/PyTorch.md",
+                "file": "Side Skills/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Side Skills/PyTorch.md"
+                "file": "Side Skills/Python.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "active": "8083f9cecde92895",
   "lastOpenFiles": [
     "Side Skills/Side Skills.md",
+    "Side Skills/PyTorch.md",
     "Lectures/Lecture 00/Lecture 0.md",
     "Lectures/Lecture 08/Toolkit-Keras.md",
     "Lectures/Lecture 08/Lecture 8.md",
@@ -184,7 +185,6 @@
     "Lectures/Lecture 09/Early Stopping.md",
     "Lectures/Lecture 09/Adaptive Learning Rate.md",
     "Lectures/Lecture 09/Adam.md",
-    "Lectures/Lecture 09/Momentum.md",
     "Lectures/Lecture 10/attachments",
     "Lectures/Lecture 10",
     "未命名",
