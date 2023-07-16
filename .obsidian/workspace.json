@@ -11,8 +11,13 @@
             "id": "eae0ef0b85842319",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Side Skills/PyTorch.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -61,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Side Skills/PyTorch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Side Skills/PyTorch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Side Skills/PyTorch.md"
+              }
             }
           }
         ]
@@ -138,42 +148,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d84dbc71f689244a",
+  "active": "eae0ef0b85842319",
   "lastOpenFiles": [
+    "Side Skills/Side Skills.md",
+    "Lectures/Lecture 08/Lecture 8.md",
+    "Lectures/Lecture 08/Toolkit-Keras.md",
+    "Lectures/Lecture 07/Lecture 7.md",
+    "Lectures/Lecture 04/Lecture 4.md",
+    "Lectures/Lecture 00/Lecture 0.md",
+    "Lectures/Lecture 01/Lecture 1.md",
+    "Lectures/Lecture 02/Lecture 2.md",
+    "Side Skills/PyTorch.md",
+    "Lectures/Lecture 03/Lecture 3.md",
+    "Lectures/Lecture 03/Gradient Descent.md",
+    "Lectures/Lecture 05/Lecture 5.md",
+    "Lectures/Lecture 09/Tips for Deep Learning.md",
+    "Lectures/Lecture 09/Lecture 9.md",
+    "Lectures/Lecture 05/Multi-class Classification.md",
+    "Lectures/Lecture 02/Model selection.md",
+    "Lectures/Lecture 01/Regression.md",
+    "Lectures/Lecture 00/Learning Map of ML.md",
+    "Lectures/Lecture 00/Framework of ML.md",
     "Lectures/Lecture 10/Lecture 10.md",
     "Lectures/Lecture 10/Convolutional Neural Network.md",
     "Lectures/Lecture 10/attachments/Pasted image 20230715163430.png",
     "Lectures/Lecture 10/attachments/eldenring_star.png",
     "Lectures/Lecture 10/attachments",
-    "Lectures/Lecture 09/Lecture 9.md",
-    "Side Skills/Side Skills.md",
-    "Side Skills/PyTorch.md",
     "Side Skills/Python.md",
-    "Lectures/Lecture 00/Lecture 0.md",
-    "Lectures/Lecture 08/Toolkit-Keras.md",
-    "Lectures/Lecture 08/Lecture 8.md",
-    "Lectures/Lecture 07/Lecture 7.md",
     "Lectures/Lecture 06/Deep Learning.md",
     "Lectures/Lecture 06/Neural Network.md",
     "Lectures/Lecture 06/Lecture 6.md",
-    "Lectures/Lecture 05/Lecture 5.md",
     "Lectures/Lecture 05/Logistic Regression.md",
-    "Lectures/Lecture 04/Lecture 4.md",
-    "Lectures/Lecture 03/Lecture 3.md",
-    "Lectures/Lecture 02/Lecture 2.md",
-    "Lectures/Lecture 03/Gradient Descent.md",
-    "Lectures/Lecture 03/Derivation for Gradient Descent.md",
-    "Lectures/Lecture 03/Feature Scaling.md",
-    "Lectures/Lecture 03/Stochastic Gradient Descent.md",
-    "Lectures/Lecture 09/Tips for Deep Learning.md",
-    "Lectures/Lecture 09/Dropout.md",
     "Lectures/Lecture 09/attachments/Pasted image 20230712182651.png",
     "Lectures/Lecture 09/attachments/Pasted image 20230712182623.png",
     "Lectures/Lecture 09/attachments/Pasted image 20230712182609.png",
     "Lectures/Lecture 09/attachments/Pasted image 20230712182557.png",
     "Lectures/Lecture 09/attachments/Pasted image 20230712182545.png",
     "Lectures/Lecture 09/attachments/Pasted image 20230712182534.png",
-    "Lectures/Lecture 01/Regularization.md",
     "Lectures/Lecture 01/attachments/Pasted image 20230712182457.png",
     "Lectures/Lecture 01/attachments/Pasted image 20230712182403.png",
     "Lectures/Lecture 10",
