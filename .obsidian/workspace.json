@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture 10/Lecture 10.md",
+                "file": "Lectures/Lecture 10/Convolutional Neural Network.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f5496b43263088a7",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture 10/Lecture 10.md",
+                "file": "Lectures/Lecture 10/Convolutional Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture 10/Lecture 10.md",
+                "file": "Lectures/Lecture 10/Convolutional Neural Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture 10/Lecture 10.md"
+                "file": "Lectures/Lecture 10/Convolutional Neural Network.md"
               }
             }
           }
@@ -150,8 +151,22 @@
   },
   "active": "eae0ef0b85842319",
   "lastOpenFiles": [
+    "Lectures/Lecture 10/Flatten.md",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720121005.png",
     "Lectures/Lecture 10/Convolutional Neural Network.md",
+    "Lectures/Lecture 10/CNN Property.md",
+    "Lectures/Lecture 10/Max Pooling in CNN.md",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720120830.png",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720120816.png",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720120749.png",
+    "Lectures/Lecture 10/Convolution in CNN.md",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720120706.png",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720120652.png",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720120414.png",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720120355.png",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720120326.png",
     "Lectures/Lecture 10/Lecture 10.md",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720120152.png",
     "Lectures/Lecture 09/Lecture 9.md",
     "Side Skills/PyTorch.md",
     "Side Skills/Side Skills.md",
@@ -171,22 +186,7 @@
     "Lectures/Lecture 01/Regression.md",
     "Lectures/Lecture 00/Learning Map of ML.md",
     "Lectures/Lecture 00/Framework of ML.md",
-    "Lectures/Lecture 10/attachments/Pasted image 20230715163430.png",
-    "Lectures/Lecture 10/attachments/eldenring_star.png",
     "Lectures/Lecture 10/attachments",
-    "Side Skills/Python.md",
-    "Lectures/Lecture 06/Deep Learning.md",
-    "Lectures/Lecture 06/Neural Network.md",
-    "Lectures/Lecture 06/Lecture 6.md",
-    "Lectures/Lecture 05/Logistic Regression.md",
-    "Lectures/Lecture 09/attachments/Pasted image 20230712182651.png",
-    "Lectures/Lecture 09/attachments/Pasted image 20230712182623.png",
-    "Lectures/Lecture 09/attachments/Pasted image 20230712182609.png",
-    "Lectures/Lecture 09/attachments/Pasted image 20230712182557.png",
-    "Lectures/Lecture 09/attachments/Pasted image 20230712182545.png",
-    "Lectures/Lecture 09/attachments/Pasted image 20230712182534.png",
-    "Lectures/Lecture 01/attachments/Pasted image 20230712182457.png",
-    "Lectures/Lecture 01/attachments/Pasted image 20230712182403.png",
     "Lectures/Lecture 10",
     "未命名",
     "Lectures/Lecture 09/attachments",
