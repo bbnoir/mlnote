@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture 10/Convolutional Neural Network.md",
+                "file": "Lectures/Lecture 11/Lecture 11.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,13 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f5496b43263088a7",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture 10/Convolutional Neural Network.md",
+                "file": "Lectures/Lecture 11/Lecture 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture 10/Convolutional Neural Network.md",
+                "file": "Lectures/Lecture 11/Lecture 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture 10/Convolutional Neural Network.md"
+                "file": "Lectures/Lecture 11/Lecture 11.md"
               }
             }
           }
@@ -151,22 +149,29 @@
   },
   "active": "eae0ef0b85842319",
   "lastOpenFiles": [
-    "Lectures/Lecture 10/Flatten.md",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121005.png",
+    "Lectures/Lecture 11/Why Deep Learning?.md",
+    "Lectures/Lecture 11/Lecture 11.md",
+    "Lectures/Lecture 10/Lecture 10.md",
     "Lectures/Lecture 10/Convolutional Neural Network.md",
+    "Lectures/Lecture 11",
+    "Lectures/Lecture 10/CNN for Go.md",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720121704.png",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720121654.png",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720121638.png",
+    "Lectures/Lecture 10/What does CNN learn?.md",
+    "Lectures/Lecture 10/Deep Style.md",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720121543.png",
+    "Lectures/Lecture 10/Deep Dream.md",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720121448.png",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720121441.png",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720121358.png",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720121349.png",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720121323.png",
+    "Lectures/Lecture 10/attachments/Pasted image 20230720121308.png",
+    "Lectures/Lecture 10/Flatten.md",
     "Lectures/Lecture 10/CNN Property.md",
     "Lectures/Lecture 10/Max Pooling in CNN.md",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720120830.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720120816.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720120749.png",
     "Lectures/Lecture 10/Convolution in CNN.md",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720120706.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720120652.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720120414.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720120355.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720120326.png",
-    "Lectures/Lecture 10/Lecture 10.md",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720120152.png",
     "Lectures/Lecture 09/Lecture 9.md",
     "Side Skills/PyTorch.md",
     "Side Skills/Side Skills.md",
@@ -181,11 +186,6 @@
     "Lectures/Lecture 03/Gradient Descent.md",
     "Lectures/Lecture 05/Lecture 5.md",
     "Lectures/Lecture 09/Tips for Deep Learning.md",
-    "Lectures/Lecture 05/Multi-class Classification.md",
-    "Lectures/Lecture 02/Model selection.md",
-    "Lectures/Lecture 01/Regression.md",
-    "Lectures/Lecture 00/Learning Map of ML.md",
-    "Lectures/Lecture 00/Framework of ML.md",
     "Lectures/Lecture 10/attachments",
     "Lectures/Lecture 10",
     "未命名",
@@ -194,7 +194,6 @@
     "Lectures/Lecture 08/attachments",
     "Lectures/Lecture 08",
     "Lectures",
-    "Lectures/Lecture 07/attachments",
-    "Lectures/Lecture 07"
+    "Lectures/Lecture 07/attachments"
   ]
 }
