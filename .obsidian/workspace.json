@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Topic-Transformer/Transformer Course.md",
+                "file": "Lectures/Topic-Transformer/Self-attention.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f5496b43263088a7",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Topic-Transformer/Transformer Course.md",
+                "file": "Lectures/Topic-Transformer/Self-attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Topic-Transformer/Transformer Course.md",
+                "file": "Lectures/Topic-Transformer/Self-attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Topic-Transformer/Transformer Course.md"
+                "file": "Lectures/Topic-Transformer/Self-attention.md"
               }
             }
           }
@@ -149,9 +150,25 @@
   },
   "active": "eae0ef0b85842319",
   "lastOpenFiles": [
-    "Lectures/Topic-Transformer/Transformer.md",
-    "Lectures/Topic-Transformer/Transformer Course.md",
+    "Lectures/Topic-Transformer/Self-attention Applications.md",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181801.png",
     "Lectures/Topic-Transformer/Self-attention.md",
+    "Lectures/Topic-Transformer/Self-attention v.s. CNN & RNN.md",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181746.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181736.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181729.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181716.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181658.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181650.png",
+    "Lectures/Topic-Transformer/Positional Encoding.md",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181609.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181521.png",
+    "Lectures/Topic-Transformer/Multi-head Self-attention.md",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181457.png",
+    "Lectures/Topic-Transformer/Transformer Course.md",
+    "Lectures/Topic-Transformer/Output Types.md",
+    "Lectures/Topic-Transformer/Vector Set as Input.md",
+    "Lectures/Topic-Transformer/Transformer.md",
     "Lectures/Lecture 10/CNN for Go.md",
     "Lectures/Lecture 10/Lecture 10.md",
     "Lectures/Lecture 11/Why Deep Learning.md",
@@ -171,29 +188,12 @@
     "Lectures/Lecture 11/Lecture 11.md",
     "Lectures/Lecture 21",
     "Lectures/Lecture 11",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121704.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121654.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121638.png",
     "Lectures/Lecture 10/Deep Style.md",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121543.png",
     "Lectures/Lecture 10/Deep Dream.md",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121448.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121441.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121358.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121349.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121323.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121308.png",
     "Lectures/Lecture 10/Flatten.md",
     "Lectures/Lecture 10/CNN Property.md",
     "Lectures/Lecture 10/Max Pooling in CNN.md",
     "Lectures/Lecture 10/Convolution in CNN.md",
-    "Lectures/Lecture 09/Lecture 9.md",
-    "Side Skills/PyTorch.md",
-    "Side Skills/Side Skills.md",
-    "Lectures/Lecture 08/Lecture 8.md",
-    "Lectures/Lecture 08/Toolkit-Keras.md",
-    "Lectures/Lecture 07/Lecture 7.md",
-    "Lectures/Lecture 04/Lecture 4.md",
     "Lectures/Lecture 10/attachments"
   ]
 }
