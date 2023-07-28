@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture 02/Lecture 2.md",
+                "file": "Lectures/Topic-Transformer/Transformer Course.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "?",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture 02/Lecture 2.md",
+                "file": "Lectures/Topic-Transformer/Transformer Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture 02/Lecture 2.md",
+                "file": "Lectures/Topic-Transformer/Transformer Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture 02/Lecture 2.md"
+                "file": "Lectures/Topic-Transformer/Transformer Course.md"
               }
             }
           }
@@ -150,17 +149,28 @@
   },
   "active": "eae0ef0b85842319",
   "lastOpenFiles": [
+    "Lectures/Topic-Transformer/Transformer.md",
+    "Lectures/Topic-Transformer/Transformer Course.md",
+    "Lectures/Topic-Transformer/Self-attention.md",
+    "Lectures/Lecture 10/CNN for Go.md",
+    "Lectures/Lecture 10/Lecture 10.md",
+    "Lectures/Lecture 11/Why Deep Learning.md",
+    "Lectures/Topic-Transformer",
+    "Lectures/Topic-Transformer/attachments",
+    "Lectures/Lecture 21/attachments",
+    "Lectures/Lecture 11/attachments",
+    "Lectures/Lecture 21/Lecture 21.md",
+    "Lectures/Topic-Self-attention/Untitled",
+    "Lectures/Topic-Self-attention",
+    "Untitled",
+    "Lectures/Lecture 02/Lecture 2.md",
     "Lectures/Lecture 10/Convolutional Neural Network.md",
     "Lectures/Lecture 09/Activation Function.md",
     "Lectures/Lecture 10/What does CNN learn.md",
-    "Lectures/Lecture 11/Why Deep Learning.md",
     "Lectures/Lecture 07/Backpropagation.md",
-    "Lectures/Lecture 21/Lecture 21.md",
     "Lectures/Lecture 11/Lecture 11.md",
     "Lectures/Lecture 21",
-    "Lectures/Lecture 10/Lecture 10.md",
     "Lectures/Lecture 11",
-    "Lectures/Lecture 10/CNN for Go.md",
     "Lectures/Lecture 10/attachments/Pasted image 20230720121704.png",
     "Lectures/Lecture 10/attachments/Pasted image 20230720121654.png",
     "Lectures/Lecture 10/attachments/Pasted image 20230720121638.png",
@@ -184,17 +194,6 @@
     "Lectures/Lecture 08/Toolkit-Keras.md",
     "Lectures/Lecture 07/Lecture 7.md",
     "Lectures/Lecture 04/Lecture 4.md",
-    "Lectures/Lecture 00/Lecture 0.md",
-    "Lectures/Lecture 01/Lecture 1.md",
-    "Lectures/Lecture 02/Lecture 2.md",
-    "Lectures/Lecture 03/Lecture 3.md",
-    "Lectures/Lecture 10/attachments",
-    "Lectures/Lecture 10",
-    "未命名",
-    "Lectures/Lecture 09/attachments",
-    "Lectures/Lecture 09",
-    "Lectures/Lecture 08/attachments",
-    "Lectures/Lecture 08",
-    "Lectures"
+    "Lectures/Lecture 10/attachments"
   ]
 }
