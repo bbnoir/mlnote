@@ -11,8 +11,13 @@
             "id": "eae0ef0b85842319",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/Lecture 07/Backpropagation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Back",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lectures/Lecture 07/Backpropagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lectures/Lecture 07/Backpropagation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lectures/Lecture 07/Backpropagation.md"
+              }
             }
           }
         ]
@@ -138,9 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eae0ef0b85842319",
+  "active": "d84dbc71f689244a",
   "lastOpenFiles": [
+    "Lectures/Lecture 21/Lecture 21.md",
     "Lectures/Lecture 11/Lecture 11.md",
+    "Lectures/Lecture 21",
     "Lectures/Lecture 11/Why Deep Learning?.md",
     "Lectures/Lecture 10/Lecture 10.md",
     "Lectures/Lecture 10/Convolutional Neural Network.md",
@@ -176,7 +187,6 @@
     "Lectures/Lecture 03/Lecture 3.md",
     "Lectures/Lecture 03/Gradient Descent.md",
     "Lectures/Lecture 05/Lecture 5.md",
-    "Lectures/Lecture 09/Tips for Deep Learning.md",
     "Lectures/Lecture 10/attachments",
     "Lectures/Lecture 10",
     "未命名",
@@ -184,7 +194,6 @@
     "Lectures/Lecture 09",
     "Lectures/Lecture 08/attachments",
     "Lectures/Lecture 08",
-    "Lectures",
-    "Lectures/Lecture 07/attachments"
+    "Lectures"
   ]
 }
