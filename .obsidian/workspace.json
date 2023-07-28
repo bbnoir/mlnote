@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Topic-Transformer/Self-attention.md",
+                "file": "Lectures/Content.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f5496b43263088a7",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Topic-Transformer/Self-attention.md",
+                "file": "Lectures/Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Topic-Transformer/Self-attention.md",
+                "file": "Lectures/Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Topic-Transformer/Self-attention.md"
+                "file": "Lectures/Content.md"
               }
             }
           }
@@ -150,9 +149,11 @@
   },
   "active": "eae0ef0b85842319",
   "lastOpenFiles": [
+    "Lectures/Content.md",
+    "Lectures/Topic-Transformer/Course Transformer.md",
+    "Lectures/Topic-Transformer/Self-attention.md",
     "Lectures/Topic-Transformer/Self-attention Applications.md",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230728181801.png",
-    "Lectures/Topic-Transformer/Self-attention.md",
     "Lectures/Topic-Transformer/Self-attention v.s. CNN & RNN.md",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230728181746.png",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230728181736.png",
@@ -165,7 +166,6 @@
     "Lectures/Topic-Transformer/attachments/Pasted image 20230728181521.png",
     "Lectures/Topic-Transformer/Multi-head Self-attention.md",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230728181457.png",
-    "Lectures/Topic-Transformer/Transformer Course.md",
     "Lectures/Topic-Transformer/Output Types.md",
     "Lectures/Topic-Transformer/Vector Set as Input.md",
     "Lectures/Topic-Transformer/Transformer.md",
