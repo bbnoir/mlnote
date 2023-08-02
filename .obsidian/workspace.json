@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Content.md",
+                "file": "Lectures/Topic-Transformer/Transformer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Content.md",
+                "file": "Lectures/Topic-Transformer/Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Content.md",
+                "file": "Lectures/Topic-Transformer/Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Content.md"
+                "file": "Lectures/Topic-Transformer/Transformer.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "eae0ef0b85842319",
   "lastOpenFiles": [
-    "Lectures/Content.md",
     "Lectures/Topic-Transformer/Course Transformer.md",
     "Lectures/Topic-Transformer/Self-attention.md",
+    "Lectures/Topic-Transformer/Output Types.md",
+    "Lectures/Content.md",
     "Lectures/Topic-Transformer/Self-attention Applications.md",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230728181801.png",
     "Lectures/Topic-Transformer/Self-attention v.s. CNN & RNN.md",
@@ -166,7 +167,6 @@
     "Lectures/Topic-Transformer/attachments/Pasted image 20230728181521.png",
     "Lectures/Topic-Transformer/Multi-head Self-attention.md",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230728181457.png",
-    "Lectures/Topic-Transformer/Output Types.md",
     "Lectures/Topic-Transformer/Vector Set as Input.md",
     "Lectures/Topic-Transformer/Transformer.md",
     "Lectures/Lecture 10/CNN for Go.md",
