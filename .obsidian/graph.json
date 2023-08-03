@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:\"Lecture \"",
+      "query": "path:\"Lectures\"",
       "color": {
         "a": 1,
         "rgb": 8018406
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.42106978419383334,
+  "scale": 0.4210697841938331,
   "close": false
 }
