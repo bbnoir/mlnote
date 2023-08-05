@@ -12,4 +12,5 @@ Slides link:
 
 [[Vector Set as Input]] -> [[Output Types]]
 ## [[Self-attention]]
+[[Seq2Seq]]
 ## [[Transformer]]
