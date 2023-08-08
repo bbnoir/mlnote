@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture 10/Convolutional Neural Network.md",
+                "file": "Lectures/Topic-Transformer/Course Transformer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lectures/Lecture 10/Convolutional Neural Network.md",
+            "file": "Lectures/Topic-Transformer/Course Transformer.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lectures/Lecture 10/Convolutional Neural Network.md",
+            "file": "Lectures/Topic-Transformer/Course Transformer.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lectures/Lecture 10/Convolutional Neural Network.md"
+            "file": "Lectures/Topic-Transformer/Course Transformer.md"
           }
         }
       }
@@ -134,43 +134,49 @@
   },
   "active": "b82d54c00a059237",
   "lastOpenFiles": [
-    "Lectures/Lecture 10/Lecture 10.md",
-    "Lectures/Lecture 09/Lecture 9.md",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121358.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121308.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121704.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121654.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121245.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121638.png",
-    "Lectures/Lecture 10/CNN for Go.md",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121349.png",
-    "Lectures/Lecture 10/Deep Dream.md",
-    "Lectures/Lecture 10/What does CNN learn?.md",
-    "Lectures/Lecture 11",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121257.png",
-    "Lectures/Lecture 11/Why Deep Learning?.md",
-    "Lectures/Lecture 11/Lecture 11.md",
-    "Lectures/Lecture 10/Deep Style.md",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121323.png",
-    "Lectures/Lecture 10/attachments/Pasted image 20230720121448.png",
-    "/Lectures/Lecture 11/Why Deep Learning?.md",
+    "Lectures/Topic-Transformer/Self-attention.md",
+    "Lectures/Topic-Transformer/Self-attention v.s. CNN & RNN.md",
+    "Lectures/Topic-Transformer/Course Transformer.md",
+    "Lectures/Topic-Transformer/Transformer.md",
+    "Lectures/Lecture 10/Convolutional Neural Network.md",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181521.png",
+    "Lectures/Content.md",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728180820.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181609.png",
+    "Lectures/Topic-Transformer/Output Types.md",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181117.png",
+    "Lectures/Topic-Transformer/Vector Set as Input.md",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181729.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728180712.png",
+    "Lectures/Lecture 10/What does CNN learn.md",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728180723.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181457.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728175917.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181801.png",
+    "Lectures/Topic-Transformer/Self-attention Applications.md",
+    "Lectures/Lecture 11/Why Deep Learning.md",
+    "Lectures/Topic-Transformer/Positional Encoding.md",
+    "Lectures/Lecture 21/Lecture 21.md",
+    "Lectures/Topic-Transformer/Multi-head Self-attention.md",
+    "/Lectures/Topic-Transformer/Self-attention v.s. CNN & RNN.md",
+    "/Lectures/Topic-Transformer/Output Types.md",
+    "/Lectures/Topic-Transformer/Course Transformer.md",
+    "/Lectures/Topic-Transformer/Vector Set as Input.md",
+    "/Lectures/Topic-Transformer/Self-attention.md",
+    "/Lectures/Topic-Transformer/Self-attention Applications.md",
+    "/Lectures/Topic-Transformer/Positional Encoding.md",
+    "/Lectures/Topic-Transformer/Multi-head Self-attention.md",
+    "/Lectures/Lecture 21/Lecture 21.md",
     "/Lectures/Lecture 11/Lecture 11.md",
-    "/Lectures/Lecture 10/What does CNN learn?.md",
-    "/Lectures/Lecture 10/Deep Style.md",
-    "/Lectures/Lecture 10/Deep Dream.md",
     "/Lectures/Lecture 10/Convolutional Neural Network.md",
-    "/Lectures/Lecture 10/CNN for Go.md",
-    "/Lectures/Lecture 11",
-    "Lectures/Lecture 08/Lecture 8.md",
-    "Lectures/Lecture 07/Lecture 7.md",
-    "Lectures/Lecture 06/Lecture 6.md",
-    "Lectures/Lecture 05/Lecture 5.md",
-    "Lectures/Lecture 04/Lecture 4.md",
-    "Lectures/Lecture 03/Lecture 3.md",
-    "Lectures/Lecture 02/Lecture 2.md",
-    "Lectures/Lecture 01/Regression.md",
-    "Lectures/Lecture 01/Lecture 1.md",
-    "Lectures/Lecture 00/Learning Map of ML.md",
-    "Lectures/Lecture 00/Lecture 0.md"
+    "/Lectures/Content.md",
+    "Lectures/Topic-Transformer",
+    "Lectures/Topic-Transformer/attachments",
+    "Lectures/Lecture 21",
+    "/Lectures/Topic-Transformer/attachments",
+    "/Lectures/Topic-Transformer",
+    "/Lectures/Lecture 21",
+    "Lectures/Lecture 11",
+    "/Lectures/Lecture 11"
   ]
 }
