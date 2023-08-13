@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deep",
+                "query": "overf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,20 +140,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
     }
   },
   "active": "6445b030358a5cc4",
   "lastOpenFiles": [
-    "Lectures/Lecture 01/Regularization.md",
+    "Lectures/Lecture 06/Lecture 6.md",
+    "Lectures/Lecture 05/Lecture 5.md",
+    "Lectures/Lecture 02/Regression Error.md",
+    "Lectures/Lecture 07/Lecture 7.md",
     "Lectures/Lecture 09/Tips for Deep Learning.md",
-    "Lectures/Lecture 09/Dropout.md",
+    "Lectures/Lecture 06/Deep Learning.md",
     "Lectures/Lecture 09/Lecture 9.md",
+    "Lectures/Lecture 08/Lecture 8.md",
+    "Lectures/Lecture 01/Regression.md",
+    "Lectures/Lecture 02/Model selection.md",
+    "Lectures/Lecture 02/Lecture 2.md",
+    "Lectures/Lecture 01/Lecture 1.md",
+    "Lectures/Lecture 00/Lecture 0.md",
+    "Lectures/Lecture 01/Regularization.md",
+    "Lectures/Lecture 09/Dropout.md",
+    "Lectures/Lecture 05/Logistic Regression.md",
+    "Lectures/Lecture 04/Lecture 4.md",
+    "Lectures/Lecture 03/Lecture 3.md",
+    "Lectures/Lecture 04/Classification-Probabilistic Generative Model.md",
+    "Lectures/Lecture 00/Learning Map of ML.md",
     "Lectures/Lecture 00/Classification.md",
     "Lectures/Topic-Transformer/Transformer.md",
     "Lectures/Topic-Transformer/Seq2Seq.md",
@@ -168,30 +185,14 @@
     "Lectures/Topic-Transformer/Course Transformer.md",
     "Lectures/Topic-Transformer/Self-attention.md",
     "Lectures/Topic-Transformer/Output Types.md",
-    "Lectures/Content.md",
-    "Lectures/Topic-Transformer/Self-attention Applications.md",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230728181801.png",
-    "Lectures/Topic-Transformer/Self-attention v.s. CNN & RNN.md",
-    "Lectures/Topic-Transformer/Positional Encoding.md",
-    "Lectures/Topic-Transformer/Multi-head Self-attention.md",
-    "Lectures/Topic-Transformer/Vector Set as Input.md",
-    "Lectures/Lecture 10/CNN for Go.md",
-    "Lectures/Lecture 10/Lecture 10.md",
-    "Lectures/Lecture 11/Why Deep Learning.md",
     "Lectures/Topic-Transformer",
     "Lectures/Topic-Transformer/attachments",
     "Lectures/Lecture 21/attachments",
     "Lectures/Lecture 11/attachments",
-    "Lectures/Lecture 21/Lecture 21.md",
     "Lectures/Topic-Self-attention/Untitled",
     "Lectures/Topic-Self-attention",
     "Untitled",
-    "Lectures/Lecture 02/Lecture 2.md",
-    "Lectures/Lecture 10/Convolutional Neural Network.md",
-    "Lectures/Lecture 09/Activation Function.md",
-    "Lectures/Lecture 10/What does CNN learn.md",
-    "Lectures/Lecture 07/Backpropagation.md",
-    "Lectures/Lecture 11/Lecture 11.md",
     "Lectures/Lecture 21",
     "Lectures/Lecture 11",
     "Lectures/Lecture 10/attachments"
