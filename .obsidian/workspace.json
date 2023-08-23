@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture 09/Tips for Deep Learning.md",
+                "file": "Lectures/Topic-Transformer/Course Transformer.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture 09/Tips for Deep Learning.md",
+                "file": "Lectures/Topic-Transformer/Course Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture 09/Tips for Deep Learning.md",
+                "file": "Lectures/Topic-Transformer/Course Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture 09/Tips for Deep Learning.md"
+                "file": "Lectures/Topic-Transformer/Course Transformer.md"
               }
             }
           }
@@ -149,12 +149,18 @@
   },
   "active": "6445b030358a5cc4",
   "lastOpenFiles": [
-    "Lectures/Lecture 01/Regularization.md",
+    "Lectures/Topic-Transformer/Self-attention.md",
+    "Lectures/Topic-Transformer/Self-attention v.s. CNN & RNN.md",
+    "Lectures/Topic-Transformer/Course Transformer.md",
+    "Lectures/Topic-Transformer/Positional Encoding.md",
+    "Lectures/Topic-Transformer/Self-attention Applications.md",
+    "Lectures/Topic-Transformer/Multi-head Self-attention.md",
+    "Lectures/Topic-Transformer/Transformer.md",
     "Lectures/Lecture 09/Tips for Deep Learning.md",
+    "Lectures/Lecture 01/Regularization.md",
     "Lectures/Lecture 09/Dropout.md",
     "Lectures/Lecture 09/Lecture 9.md",
     "Lectures/Lecture 00/Classification.md",
-    "Lectures/Topic-Transformer/Transformer.md",
     "Lectures/Topic-Transformer/Seq2Seq.md",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230802085027.png",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230802085012.png",
@@ -165,15 +171,9 @@
     "Lectures/Topic-Transformer/attachments/Pasted image 20230802084226.png",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230802084143.png",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230802084049.png",
-    "Lectures/Topic-Transformer/Course Transformer.md",
-    "Lectures/Topic-Transformer/Self-attention.md",
     "Lectures/Topic-Transformer/Output Types.md",
     "Lectures/Content.md",
-    "Lectures/Topic-Transformer/Self-attention Applications.md",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230728181801.png",
-    "Lectures/Topic-Transformer/Self-attention v.s. CNN & RNN.md",
-    "Lectures/Topic-Transformer/Positional Encoding.md",
-    "Lectures/Topic-Transformer/Multi-head Self-attention.md",
     "Lectures/Topic-Transformer/Vector Set as Input.md",
     "Lectures/Lecture 10/CNN for Go.md",
     "Lectures/Lecture 10/Lecture 10.md",
