@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Topic-Transformer/Course Transformer.md",
+                "file": "Lectures/Topic-Transformer/Self-attention.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lectures/Topic-Transformer/Course Transformer.md",
+            "file": "Lectures/Topic-Transformer/Self-attention.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lectures/Topic-Transformer/Course Transformer.md",
+            "file": "Lectures/Topic-Transformer/Self-attention.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lectures/Topic-Transformer/Course Transformer.md"
+            "file": "Lectures/Topic-Transformer/Self-attention.md"
           }
         }
       }
@@ -134,25 +134,29 @@
   },
   "active": "b82d54c00a059237",
   "lastOpenFiles": [
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230802084939.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230802084226.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230802084049.png",
+    "Lectures/Topic-Transformer/Seq2Seq.md",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230802085027.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230802085002.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230802084143.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230802084922.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230802084902.png",
+    "Lectures/Topic-Transformer/attachments/Pasted image 20230802085012.png",
+    "/Lectures/Topic-Transformer/attachments/Pasted image 20230802085027.png",
+    "/Lectures/Topic-Transformer/attachments/Pasted image 20230802085012.png",
+    "/Lectures/Topic-Transformer/Seq2Seq.md",
+    "/Lectures/Topic-Transformer/Course Transformer.md",
+    "Lectures/Topic-Transformer/Course Transformer.md",
     "Lectures/Topic-Transformer/Self-attention.md",
     "Lectures/Topic-Transformer/Self-attention v.s. CNN & RNN.md",
-    "Lectures/Topic-Transformer/Course Transformer.md",
     "Lectures/Topic-Transformer/Transformer.md",
     "Lectures/Lecture 10/Convolutional Neural Network.md",
-    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181521.png",
     "Lectures/Content.md",
-    "Lectures/Topic-Transformer/attachments/Pasted image 20230728180820.png",
-    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181609.png",
     "Lectures/Topic-Transformer/Output Types.md",
-    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181117.png",
     "Lectures/Topic-Transformer/Vector Set as Input.md",
-    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181729.png",
-    "Lectures/Topic-Transformer/attachments/Pasted image 20230728180712.png",
     "Lectures/Lecture 10/What does CNN learn.md",
-    "Lectures/Topic-Transformer/attachments/Pasted image 20230728180723.png",
-    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181457.png",
-    "Lectures/Topic-Transformer/attachments/Pasted image 20230728175917.png",
-    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181801.png",
     "Lectures/Topic-Transformer/Self-attention Applications.md",
     "Lectures/Lecture 11/Why Deep Learning.md",
     "Lectures/Topic-Transformer/Positional Encoding.md",
@@ -160,16 +164,12 @@
     "Lectures/Topic-Transformer/Multi-head Self-attention.md",
     "/Lectures/Topic-Transformer/Self-attention v.s. CNN & RNN.md",
     "/Lectures/Topic-Transformer/Output Types.md",
-    "/Lectures/Topic-Transformer/Course Transformer.md",
     "/Lectures/Topic-Transformer/Vector Set as Input.md",
     "/Lectures/Topic-Transformer/Self-attention.md",
     "/Lectures/Topic-Transformer/Self-attention Applications.md",
     "/Lectures/Topic-Transformer/Positional Encoding.md",
     "/Lectures/Topic-Transformer/Multi-head Self-attention.md",
     "/Lectures/Lecture 21/Lecture 21.md",
-    "/Lectures/Lecture 11/Lecture 11.md",
-    "/Lectures/Lecture 10/Convolutional Neural Network.md",
-    "/Lectures/Content.md",
     "Lectures/Topic-Transformer",
     "Lectures/Topic-Transformer/attachments",
     "Lectures/Lecture 21",
