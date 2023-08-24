@@ -1,3 +1,6 @@
+3blue1brown -> https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+
 based on [[Framework of ML]]
 ![[Pasted image 20230709200853.png]]
 1. Function Set: [[Neural Network]]

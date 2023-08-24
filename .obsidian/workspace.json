@@ -4,37 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "0cd6e305c5e5c944",
+        "id": "9dbee94778d28b3e",
         "type": "tabs",
         "children": [
           {
-            "id": "6445b030358a5cc4",
+            "id": "c9171ab6dee78c1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Topic-Transformer/Course Transformer.md",
-                "mode": "preview",
+                "file": "Lectures/Lecture 06/Deep Learning.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "973befbf2c89fba5",
+            "id": "01d79de7298bb7cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
+                "file": "Lectures/Lecture 11/Lecture 11.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture 09/Tips for Deep Learning.md",
+                "file": "Lectures/Lecture 06/Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture 09/Tips for Deep Learning.md",
+                "file": "Lectures/Lecture 06/Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture 09/Tips for Deep Learning.md"
+                "file": "Lectures/Lecture 06/Deep Learning.md"
               }
             }
           }
@@ -148,28 +148,44 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "973befbf2c89fba5",
+  "active": "c9171ab6dee78c1e",
   "lastOpenFiles": [
-    "Lectures/Lecture 01/Regularization.md",
-    "Lectures/Lecture 09/Tips for Deep Learning.md",
-    "Lectures/Lecture 01/Regularization.md",
-    "Lectures/Lecture 09/Dropout.md",
-    "Lectures/Lecture 09/Lecture 9.md",
-    "Lectures/Lecture 00/Classification.md",
+    "Lectures/Lecture 00/Learning Map of ML.md",
+    "Lectures/Lecture 00/Lecture 0.md",
+    "Lectures/Lecture 07/Lecture 7.md",
+    "Lectures/Topic-Transformer/Course Transformer.md",
+    "Lectures/Lecture 10/Lecture 10.md",
+    "Lectures/Lecture 11/Lecture 11.md",
+    "Lectures/Topic-Transformer/Vector Set as Input.md",
+    "Lectures/Lecture 10/Convolutional Neural Network.md",
+    "Lectures/Lecture 10/CNN for Go.md",
+    "Lectures/Lecture 10/Deep Dream.md",
+    "Lectures/Lecture 10/Deep Style.md",
+    "Lectures/Lecture 10/Flatten.md",
+    "Lectures/Lecture 10/Max Pooling in CNN.md",
+    "Lectures/Lecture 10/Convolution in CNN.md",
+    "Lectures/Lecture 10/What does CNN learn.md",
+    "Lectures/Lecture 10/CNN Property.md",
+    "Lectures/Topic-Transformer/Transformer.md",
+    "Lectures/Topic-Transformer/Self-attention.md",
     "Lectures/Topic-Transformer/Seq2Seq.md",
+    "Lectures/Lecture 04/Review Map.md",
+    "Lectures/Lecture 11/Why Deep Learning.md",
+    "Lectures/Lecture 09/Lecture 9.md",
+    "Lectures/Lecture 09/Tips for Deep Learning.md",
+    "Lectures/Lecture 09/Dropout.md",
+    "Lectures/Lecture 01/Regularization.md",
+    "Lectures/Lecture 09/Early Stopping.md",
+    "Lectures/Lecture 00/attachments/Pasted image 20230623111604.png",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230802085027.png",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230802085012.png",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230802085002.png",
@@ -179,27 +195,13 @@
     "Lectures/Topic-Transformer/attachments/Pasted image 20230802084226.png",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230802084143.png",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230802084049.png",
-    "Lectures/Topic-Transformer/Output Types.md",
-    "Lectures/Content.md",
-    "Lectures/Topic-Transformer/attachments/Pasted image 20230728181801.png",
-    "Lectures/Topic-Transformer/Vector Set as Input.md",
-    "Lectures/Lecture 10/CNN for Go.md",
-    "Lectures/Lecture 10/Lecture 10.md",
-    "Lectures/Lecture 11/Why Deep Learning.md",
     "Lectures/Topic-Transformer",
     "Lectures/Topic-Transformer/attachments",
     "Lectures/Lecture 21/attachments",
     "Lectures/Lecture 11/attachments",
-    "Lectures/Lecture 21/Lecture 21.md",
     "Lectures/Topic-Self-attention/Untitled",
     "Lectures/Topic-Self-attention",
     "Untitled",
-    "Lectures/Lecture 02/Lecture 2.md",
-    "Lectures/Lecture 10/Convolutional Neural Network.md",
-    "Lectures/Lecture 09/Activation Function.md",
-    "Lectures/Lecture 10/What does CNN learn.md",
-    "Lectures/Lecture 07/Backpropagation.md",
-    "Lectures/Lecture 11/Lecture 11.md",
     "Lectures/Lecture 21",
     "Lectures/Lecture 11",
     "Lectures/Lecture 10/attachments"
