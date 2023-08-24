@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture 06/Deep Learning.md",
+                "file": "Lectures/General Guide for Training/General Guide for Training.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Lecture 06/Deep Learning.md",
+                "file": "Lectures/General Guide for Training/General Guide for Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Lecture 06/Deep Learning.md",
+                "file": "Lectures/General Guide for Training/General Guide for Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Lecture 06/Deep Learning.md"
+                "file": "Lectures/General Guide for Training/General Guide for Training.md"
               }
             }
           }
@@ -152,13 +151,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:開啟快速切換": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
     }
   },
   "active": "c9171ab6dee78c1e",
   "lastOpenFiles": [
+    "Lectures/Lecture 06/Deep Learning.md",
+    "Lectures/General Guide for Training/General Guide for Training.md",
+    "Lectures/General Guide for Training",
     "Lectures/Lecture 00/Learning Map of ML.md",
     "Lectures/Lecture 00/Lecture 0.md",
     "Lectures/Lecture 07/Lecture 7.md",
@@ -183,8 +185,6 @@
     "Lectures/Lecture 09/Lecture 9.md",
     "Lectures/Lecture 09/Tips for Deep Learning.md",
     "Lectures/Lecture 09/Dropout.md",
-    "Lectures/Lecture 01/Regularization.md",
-    "Lectures/Lecture 09/Early Stopping.md",
     "Lectures/Lecture 00/attachments/Pasted image 20230623111604.png",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230802085027.png",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230802085012.png",
@@ -203,7 +203,6 @@
     "Lectures/Topic-Self-attention",
     "Untitled",
     "Lectures/Lecture 21",
-    "Lectures/Lecture 11",
-    "Lectures/Lecture 10/attachments"
+    "Lectures/Lecture 11"
   ]
 }
