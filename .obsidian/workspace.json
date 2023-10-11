@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9171ab6dee78c1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/General Guide for Training/General Guide for Training.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "01d79de7298bb7cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Lecture 11/Lecture 11.md",
+                "file": "Lectures/Lecture 00/Learning Map of ML.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/General Guide for Training/General Guide for Training.md",
+                "file": "Lectures/Lecture 00/Learning Map of ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/General Guide for Training/General Guide for Training.md",
+                "file": "Lectures/Lecture 00/Learning Map of ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/General Guide for Training/General Guide for Training.md"
+                "file": "Lectures/Lecture 00/Learning Map of ML.md"
               }
             }
           }
@@ -151,22 +138,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "c9171ab6dee78c1e",
+  "active": "01d79de7298bb7cf",
   "lastOpenFiles": [
-    "Lectures/Lecture 06/Deep Learning.md",
+    "Lectures/Lecture 00/Framework of ML.md",
+    "Lectures/Lecture 00/Classification.md",
+    "Lectures/Lecture 11/Lecture 11.md",
     "Lectures/General Guide for Training/General Guide for Training.md",
+    "Lectures/Lecture 06/Deep Learning.md",
     "Lectures/General Guide for Training",
     "Lectures/Lecture 00/Learning Map of ML.md",
     "Lectures/Lecture 00/Lecture 0.md",
     "Lectures/Lecture 07/Lecture 7.md",
     "Lectures/Topic-Transformer/Course Transformer.md",
     "Lectures/Lecture 10/Lecture 10.md",
-    "Lectures/Lecture 11/Lecture 11.md",
     "Lectures/Topic-Transformer/Vector Set as Input.md",
     "Lectures/Lecture 10/Convolutional Neural Network.md",
     "Lectures/Lecture 10/CNN for Go.md",
@@ -183,8 +172,6 @@
     "Lectures/Lecture 04/Review Map.md",
     "Lectures/Lecture 11/Why Deep Learning.md",
     "Lectures/Lecture 09/Lecture 9.md",
-    "Lectures/Lecture 09/Tips for Deep Learning.md",
-    "Lectures/Lecture 09/Dropout.md",
     "Lectures/Lecture 00/attachments/Pasted image 20230623111604.png",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230802085027.png",
     "Lectures/Topic-Transformer/attachments/Pasted image 20230802085012.png",
